@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🛒 ShoppyGlobe Backend API
 
 🚀 Project Overview
@@ -145,3 +146,7 @@ Ridhesh Chavarekar
 🎯 Conclusion
 
 This project demonstrates a complete backend system with authentication, database integration, and RESTful API design following industry best practices.
+=======
+# shoppyglobe-backend
+ShoppyGlobe Backend API using Node.js, Express, MongoDB with JWT Authentication and Cart System
+>>>>>>> 3f145c7f1439a80f64a2ead9a3c0bc86384c5333
