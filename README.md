@@ -147,3 +147,14 @@ Ridhesh Chavarekar
 
 This project demonstrates a complete backend system with authentication, database integration, and RESTful API design following industry best practices.
 
+---
+
+## 🔗 Project Links
+
+🔹 GitHub Repository:  
+https://github.com/Ridheshxx/shoppyglobe-backend
+
+🔹 API Base URL:  
+http://localhost:3000
+
+---
